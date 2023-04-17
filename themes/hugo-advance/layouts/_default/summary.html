@@ -1,0 +1,10 @@
+<div class="summary {{ if .Params.thumbnail }}summary-has-thumbnail{{ end }} {{ if .Params.icon }}summary-has-icon{{ end }}">
+    <div class="summary-content">
+        <div class="summary-title">
+            <h3>{{ .Title }}</a></h3>
+        </div>
+        <div class="summary-description">
+            <p>{{ .Params.description }}</p>
+        </div>
+    </div>
+</div>
