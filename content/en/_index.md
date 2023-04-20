@@ -13,7 +13,7 @@ services:
   limit: 3
 intro:
   enabled: true
-  align: left
+  align: center
   image: "images/pendray/logo/Pendray_Logo.png"
   heading: "Every Solution is Unique"
   description: "Let’s work together to increase your CyberSecurity posture."
