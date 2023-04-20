@@ -16,7 +16,7 @@ intro:
   align: center
   image: "images/pendray/logo/Pendray_Logo.png"
   heading: "Every Solution is Unique"
-  description: "Let’s work together to increase your CyberSecurity posture."
+  description: "Let’s work together to protect your Data."
 #  button:
 #    text: "Buy Now"
 #    url: "https://www.zerostatic.io/theme/hugo-advance/"
