@@ -1,5 +1,5 @@
 ---
-title: "Compliance Management & Reporting"
+title: "Governance Risk and Compliance"
 description: "Governance, risk, and compliance (GRC) refers to a set of practices and processes that an organization puts in place to ensure that it is meeting its legal and regulatory obligations, managing risks effectively, and adhering to industry and governance standards. 
 
 Don’t know which framework that best suits your organization? We would be happy to chat further with you!"

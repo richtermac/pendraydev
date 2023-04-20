@@ -1,5 +1,5 @@
 ---
-title: "Security Assessments"
+title: "Vulnerability Assessment "
 description: "Vulnerabilities are weaknesses or flaws a bad actor can use to exploit and gain unauthorized access into your organization, steal data or cause reputational damage. 
 
 This service is the process of identifying, assessing and reporting on vulnerabilities across Operating Systems, Applications and Infrastructure. This prioritises remediation plans for operational teams to address."
