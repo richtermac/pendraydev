@@ -1,6 +1,8 @@
 ---
-title: "CyberSecurity Frameworks"
-description: "Implementing CyberSecurity frameworks ensures alignment with proven industry standards and regulations."
+title: "Security Assessments"
+description: "Vulnerabilities are weaknesses or flaws a bad actor can use to exploit and gain unauthorized access into your organization, steal data or cause reputational damage. 
+
+This service is the process of identifying, assessing and reporting on vulnerabilities across Operating Systems, Applications and Infrastructure. This prioritises remediation plans for operational teams to address."
 date: 2018-11-28T15:15:34+10:00
 meta: 
   title: "Web Design Services"

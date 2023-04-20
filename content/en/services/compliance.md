@@ -1,6 +1,8 @@
 ---
 title: "Compliance Management & Reporting"
-description: "Compliance management and reporting for CyberSecurity is the process of ensuring that an organization is meeting the legal, regulatory, and industry standards for protecting its sensitive data, network, and systems from cyber threats."
+description: "Governance, risk, and compliance (GRC) refers to a set of practices and processes that an organization puts in place to ensure that it is meeting its legal and regulatory obligations, managing risks effectively, and adhering to industry and governance standards. 
+
+Don’t know which framework that best suits your organization? We would be happy to chat further with you!"
 date: 2018-11-28T15:15:34+10:00
 #menu:
 #  main:
