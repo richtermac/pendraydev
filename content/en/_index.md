@@ -36,7 +36,7 @@ outro:
 #  description: Save time and money using this premium Hugo theme.
   button:
     text: "Email Now"
-    url: "mailto: info@pendray.ca"
+    url: "mailto: info@pendray.io"
     external: true
 #blog:
 #  enabled: false
