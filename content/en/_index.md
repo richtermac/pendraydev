@@ -1,7 +1,7 @@
 ---
 title: "Pendray Cloud Security"
 date: 2019-02-22
-description: "Your <strong>Trusted</strong> CyberSecurity Solutions Provider"
+description: "Your CyberSecurity Solutions Provider"
 header_transparent: true
 hero:
   background: "images/pendray/bookshelf.jpg"
