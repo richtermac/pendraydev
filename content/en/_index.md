@@ -3,13 +3,15 @@ title: "Pendray Cloud Security"
 date: 2019-02-22
 description: "Your CyberSecurity Solutions Provider"
 header_transparent: true
+
 hero:
   background: "images/pendray/bookshelf.jpg"
+  logo: "images/pendray/pendray-logo-reversed.png"
   blend_mode: "overlay"
   theme: "primary"
 services:
   enabled: true
-#  show_view_all: true
+  #  show_view_all: true
   limit: 3
 intro:
   enabled: true
@@ -33,7 +35,7 @@ outro:
   align: center
   image: ""
   heading: Start the Conversation
-#  description: Save time and money using this premium Hugo theme.
+  #  description: Save time and money using this premium Hugo theme.
   button:
     text: "Email Now"
     url: "mailto: info@pendray.io"

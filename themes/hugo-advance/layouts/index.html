@@ -5,14 +5,14 @@
 {{ define "main" }}
 
     {{ if .Params.hero }}
-        {{ partial "components/hero.html" (dict "title" .Title "description" .Params.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
+        {{ partial "components/hero.html" (dict "title" .Title "description" .Params.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme "logo" .Params.hero.logo)}}
     {{ end }}
 
     <!-- Show a list of 'services' -->
     {{ if .Params.services.enabled }}
         {{ $section := $.Site.GetPage "section" "services" }}
         {{ $pages := where $.Site.RegularPages "Type" "services" }}
-        {{ $limit := .Params.services.limit | default 3 }}
+        {{ $limit := .Params.services.limit | default 6 }}
         {{ $slider := .Params.services.slider | default false }}
         {{ if gt (len $pages) 0 }}
             <div class="strip strip-border-bottom theme-alt">
